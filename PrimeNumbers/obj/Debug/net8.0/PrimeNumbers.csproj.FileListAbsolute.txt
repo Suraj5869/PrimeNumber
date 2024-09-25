@@ -1,0 +1,15 @@
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.deps.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.runtimeconfig.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.AssemblyInfo.cs
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.sourcelink.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\obj\Debug\net8.0\refint\PrimeNumbers.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.genruntimeconfig.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\PrimeNumbers\PrimeNumbers\obj\Debug\net8.0\ref\PrimeNumbers.dll
